@@ -1,0 +1,3 @@
+[submodule "src/Foggyline/CustomerBundle"]
+	path = src/Foggyline/CustomerBundle
+	url = git@github.com:ajzele/B05460_CustomerBundle.git
